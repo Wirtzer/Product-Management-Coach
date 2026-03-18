@@ -1,0 +1,26 @@
+{
+  "user": {
+    "name": "Your Name",
+    "role": "Product Manager",
+    "level": "Senior",
+    "years_experience": 5,
+    "target_companies": [],
+    "focus_areas": ["AI", "robotics"],
+    "career_goals": "",
+    "strengths": [],
+    "development_areas": []
+  },
+  "coach": {
+    "model": "claude-sonnet-4-5",
+    "reflection_model": "claude-sonnet-4-5",
+    "session_length_minutes": 45
+  },
+  "schedule": {
+    "reflection_time": "21:00",
+    "timezone": "America/Los_Angeles"
+  },
+  "paths": {
+    "workspace": ".",
+    "knowledge_sources": ["./knowledge"]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "track_id": "narrative-influence",
+  "display_name": "Narrative and Influence",
+  "pillar": "narrative-influence",
+  "pillar_emoji": "✍️",
+  "created": "2026-01-01",
+  "last_updated": "2026-01-01",
+  "topic_type": "craft-based-practice",
+  "mastery": {
+    "overall": 0,
+    "dimensions": {
+      "core_concepts": { "score": 0, "trend": "flat", "notes": "" },
+      "practical_application": { "score": 0, "trend": "flat", "notes": "" },
+      "current_research": { "score": 0, "trend": "flat", "notes": "" },
+      "mathematical_intuition": { "score": 0, "trend": "flat", "notes": "" }
+    }
+  },
+  "conversational_readiness": {
+    "overall": 0,
+    "dimensions": {
+      "vocabulary_fluency": { "score": 0, "trend": "flat", "last_tested": null },
+      "conceptual_depth": { "score": 0, "trend": "flat", "last_tested": null },
+      "current_awareness": { "score": 0, "trend": "flat", "last_tested": null, "staleness_days": 0 },
+      "opinion_formation": { "score": 0, "trend": "flat", "last_tested": null }
+    },
+    "last_expert_test": null,
+    "expert_test_history": []
+  },
+  "spaced_repetition": {
+    "current_interval_days": 1,
+    "next_review_date": "2026-01-01",
+    "consecutive_successes": 0,
+    "last_review_quality": null,
+    "flagged_for_immediate_review": false
+  },
+  "pedagogy": {
+    "approach": "craft-based-practice",
+    "current_phase": "observe",
+    "phase_progression": ["observe", "imitate", "adapt", "create", "master"],
+    "active_techniques": ["exemplar-study", "imitation-exercise"],
+    "techniques_tried": {}
+  },
+  "subtopics": {
+    "product-narratives": { "mastery": 0, "last_practiced": null, "runs": 0, "best_score": null, "notes": "" },
+    "strategy-memos": { "mastery": 0, "last_practiced": null, "runs": 0, "best_score": null, "notes": "" },
+    "stakeholder-communication": { "mastery": 0, "last_practiced": null, "runs": 0, "best_score": null, "notes": "" },
+    "one-pagers": { "mastery": 0, "last_practiced": null, "runs": 0, "best_score": null, "notes": "" }
+  },
+  "session_count": 0,
+  "total_practice_minutes": 0
+}

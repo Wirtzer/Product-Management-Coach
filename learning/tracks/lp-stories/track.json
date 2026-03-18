@@ -1,0 +1,54 @@
+{
+  "track_id": "lp-stories",
+  "display_name": "Leadership Principle Stories",
+  "pillar": "interview-excellence",
+  "pillar_emoji": "🎯",
+  "created": "2026-01-01",
+  "last_updated": "2026-01-01",
+  "topic_type": "storytelling-practice",
+  "mastery": {
+    "overall": 0,
+    "dimensions": {
+      "star_structure": { "score": 0, "trend": "flat", "notes": "" },
+      "content_accuracy": { "score": 0, "trend": "flat", "notes": "" },
+      "delivery_clarity": { "score": 0, "trend": "flat", "notes": "" },
+      "technical_lp_angle": { "score": 0, "trend": "flat", "notes": "" },
+      "strategic_frame": { "score": 0, "trend": "flat", "notes": "" }
+    }
+  },
+  "conversational_readiness": {
+    "overall": 0,
+    "dimensions": {
+      "vocabulary_fluency": { "score": 0, "trend": "flat", "last_tested": null },
+      "conceptual_depth": { "score": 0, "trend": "flat", "last_tested": null },
+      "current_awareness": { "score": 0, "trend": "flat", "last_tested": null, "staleness_days": 0 },
+      "opinion_formation": { "score": 0, "trend": "flat", "last_tested": null }
+    },
+    "last_expert_test": null,
+    "expert_test_history": []
+  },
+  "spaced_repetition": {
+    "current_interval_days": 1,
+    "next_review_date": "2026-01-01",
+    "consecutive_successes": 0,
+    "last_review_quality": null,
+    "flagged_for_immediate_review": false
+  },
+  "pedagogy": {
+    "approach": "storytelling-practice",
+    "current_phase": "introduction",
+    "phase_progression": ["introduction", "structuring", "practice", "refinement", "performance"],
+    "active_techniques": ["basic-run-through", "record-and-review"],
+    "techniques_tried": {}
+  },
+  "subtopics": {
+    "ownership": { "mastery": 0, "last_practiced": null, "runs": 0, "best_score": null, "notes": "" },
+    "customer-obsession": { "mastery": 0, "last_practiced": null, "runs": 0, "best_score": null, "notes": "" },
+    "bias-for-action": { "mastery": 0, "last_practiced": null, "runs": 0, "best_score": null, "notes": "" },
+    "earn-trust": { "mastery": 0, "last_practiced": null, "runs": 0, "best_score": null, "notes": "" },
+    "dive-deep": { "mastery": 0, "last_practiced": null, "runs": 0, "best_score": null, "notes": "" },
+    "think-big": { "mastery": 0, "last_practiced": null, "runs": 0, "best_score": null, "notes": "" }
+  },
+  "session_count": 0,
+  "total_practice_minutes": 0
+}

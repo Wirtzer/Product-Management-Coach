@@ -1,0 +1,30 @@
+{
+  "companies": [],
+  "_schema": {
+    "name": "string — Company name",
+    "industry": "string — e.g., AI/ML, Robotics, Cloud, SaaS",
+    "stage": "string — e.g., Startup, Growth, Public",
+    "hq": "string — Headquarters city",
+    "headcount": "string — Approximate headcount range",
+    "key_products": ["string — Main products or services"],
+    "tech_stack": ["string — Known technologies and frameworks"],
+    "culture_notes": "string — Interview culture, values, what they look for",
+    "pm_structure": "string — How PM org is structured (if known)",
+    "interview_process": {
+      "rounds": "string — Number and types of rounds",
+      "focus_areas": ["string — What they emphasize: product sense, technical, behavioral, etc."],
+      "tips": "string — Any known tips or preparation advice"
+    },
+    "leadership_principles": ["string — Company values or principles (if applicable)"],
+    "recent_news": [
+      {
+        "date": "YYYY-MM-DD",
+        "headline": "string",
+        "significance": "string — Why this matters for your prep"
+      }
+    ],
+    "your_notes": "string — Personal notes, connections at the company, application status",
+    "last_updated": "YYYY-MM-DD"
+  },
+  "_instructions": "Add companies you're targeting or interested in. Keep profiles updated with recent news and interview intel. The coach uses this data to tailor practice sessions to specific companies."
+}

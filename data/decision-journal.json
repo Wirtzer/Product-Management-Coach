@@ -1,0 +1,13 @@
+{
+  "decisions": [],
+  "_schema": {
+    "date": "YYYY-MM-DD",
+    "context": "string",
+    "options_considered": ["string"],
+    "decision": "string",
+    "reasoning": "string",
+    "confidence": "1-10",
+    "outcome": "string (filled later)",
+    "lessons": "string (filled later)"
+  }
+}

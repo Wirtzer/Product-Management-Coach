@@ -1,0 +1,35 @@
+{
+  "category": "product-sense",
+  "description": "Product design and improvement questions",
+  "questions": [
+    {
+      "id": "ps-001",
+      "question": "Your question text here",
+      "category": "product-sense",
+      "subcategory": "improvement",
+      "difficulty": "medium",
+      "company_tags": ["generic"],
+      "framework_tags": ["circles", "jtbd"],
+      "time_limit_minutes": 8,
+      "notes": "Optional notes about what makes this question tricky or what a great answer includes",
+      "follow_ups": [
+        "How would you measure success?",
+        "What tradeoffs did you consider?"
+      ],
+      "added_date": "2025-01-01",
+      "last_practiced": null,
+      "practice_count": 0,
+      "best_score": null
+    }
+  ],
+  "_schema_notes": {
+    "difficulty": "One of: easy, medium, hard, expert",
+    "subcategory": "Free-form. Examples: improvement, design, strategy, behavioral, estimation",
+    "company_tags": "Array of company names this question is associated with, or ['generic']",
+    "framework_tags": "Array of frameworks relevant to answering (circles, rice, star, jtbd, etc.)",
+    "time_limit_minutes": "Recommended time for answering. Typical: 5-10 for product, 2-3 for behavioral",
+    "follow_ups": "Common follow-up questions an interviewer might ask",
+    "practice_count": "Auto-incremented by the coaching system",
+    "best_score": "Auto-updated by the coaching system"
+  }
+}

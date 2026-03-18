@@ -1,0 +1,84 @@
+{
+  "track_id": "growth-experimentation",
+  "display_name": "Growth & Experimentation",
+  "pillar": "pm-craft",
+  "pillar_emoji": "🛠️",
+  "pillar_tier": "always-on",
+  "created": "2025-01-15",
+  "last_updated": "2025-01-15",
+  "topic_type": "concept-learning",
+  "session_count": 0,
+  "mastery": {
+    "overall": 30,
+    "dimensions": {
+      "core_concepts": {
+        "score": 30,
+        "trend": "flat",
+        "notes": "Funnel analysis, growth loops, experimentation basics"
+      },
+      "practical_application": {
+        "score": 30,
+        "trend": "flat",
+        "notes": "Designing and analyzing A/B tests"
+      },
+      "mathematical_intuition": {
+        "score": 30,
+        "trend": "flat",
+        "notes": "Statistical significance, sample sizes, power analysis"
+      },
+      "current_research": {
+        "score": 30,
+        "trend": "flat",
+        "notes": "Modern experimentation platforms, bandits, causal inference"
+      }
+    }
+  },
+  "conversational_readiness": {
+    "overall": 20,
+    "dimensions": {
+      "vocabulary_fluency": {
+        "score": 20,
+        "trend": "flat",
+        "last_tested": null
+      },
+      "conceptual_depth": {
+        "score": 20,
+        "trend": "flat",
+        "last_tested": null
+      },
+      "current_awareness": {
+        "score": 20,
+        "trend": "flat",
+        "last_tested": null,
+        "staleness_days": 0
+      },
+      "opinion_formation": {
+        "score": 20,
+        "trend": "flat",
+        "last_tested": null
+      }
+    },
+    "target_persona": "principal-engineer",
+    "expert_test_history": []
+  },
+  "spaced_repetition": {
+    "current_interval_days": 2,
+    "next_review_date": "2025-01-15",
+    "consecutive_successes": 0,
+    "last_review_quality": null,
+    "flagged_for_immediate_review": false
+  },
+  "pedagogy": {
+    "approach": "concept-learning",
+    "current_phase": "Concrete Example",
+    "phase_progression": [
+      "Concrete Example",
+      "Abstract Principle",
+      "Application",
+      "Edge Cases",
+      "Teaching"
+    ],
+    "active_techniques": ["concrete-first"],
+    "techniques_tried": []
+  }
+}
