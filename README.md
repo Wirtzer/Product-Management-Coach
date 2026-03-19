@@ -7,6 +7,8 @@
 [![Platform: Claude Code](https://img.shields.io/badge/Platform-Claude%20Code-orange.svg)](#-quickstart-5-minutes)
 [![Platform: Cursor](https://img.shields.io/badge/Platform-Cursor-purple.svg)](#-platform-compatibility)
 
+Got feedback? Send it to Genie.Wirtzer@gmail.com and we will look into it!
+
 ---
 
 ## What is This?
