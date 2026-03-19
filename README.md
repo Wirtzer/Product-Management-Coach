@@ -298,7 +298,7 @@ The `knowledge/` directory is designed for you to add your own learning material
 
 - **Articles and blog posts** — Drop `.md` files and run `feed-knowledge-queue.sh`
 - **Research paper summaries** — Markdown summaries of relevant papers
-- **Podcast notes** — We recommend distilling insights from [Lenny's Podcast](https://www.lennyspodcast.com/) by Lenny Rachitsky (the essential podcast for product people) — organize notes by PM topic (product sense, metrics, growth, strategy, etc.) and drop them in `knowledge/`
+- **Podcast notes** — We recommend distilling insights from [Lenny's Podcast](https://www.lennyspodcast.com/) by Lenny Rachitsky — organize notes by PM topic (product sense, metrics, growth, strategy, etc.) and drop them in `knowledge/`
 - **Your own notes** — Anything relevant to your PM growth
 
 The knowledge pipeline automatically scores new materials for relevance and routes them to the appropriate learning tracks.
@@ -377,15 +377,6 @@ PM Coach is designed to be extended. Common customizations:
 - **Adapt for non-PM domains** — The architecture is domain-agnostic; swap the content
 
 See [docs/CUSTOMIZATION.md](docs/CUSTOMIZATION.md) for detailed guides.
-
----
-
-## 🤝 Complementary Resources
-
-PM Coach works great alongside these resources:
-
-- **[Product Manager Skills](https://github.com/deanpeters/Product-Manager-Skills)** by Dean Peters — A complementary PM skills library and competency framework
-- **[Lenny's Podcast](https://www.lennyspodcast.com/)** by Lenny Rachitsky — The essential podcast for product people; distill episode notes into `knowledge/` to feed the learning pipeline
 
 ---
 
