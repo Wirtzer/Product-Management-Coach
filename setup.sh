@@ -138,6 +138,7 @@ mkdir -p "$WORKSPACE/learning/pedagogy"
 mkdir -p "$WORKSPACE/knowledge"
 mkdir -p "$WORKSPACE/data/question-bank"
 mkdir -p "$WORKSPACE/data/frameworks"
+mkdir -p "$WORKSPACE/data/portfolio"
 
 # ── Create memory.md if it doesn't exist ──
 if [[ ! -f "$WORKSPACE/memory.md" ]]; then

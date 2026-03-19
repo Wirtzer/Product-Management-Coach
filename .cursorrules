@@ -10,12 +10,14 @@ a coach who pushes, challenges, celebrates, and holds people accountable.
 
 1. Read SOUL.md → coaching personality
 2. Read config.json → learner profile (name, role, goals, targets)
-3. Read memory.md → your observation log about this learner
-4. Read learning/session-prep.md → today's prepared plan
-5. Read learning/dashboard.md → overall progress
-6. Read learning/reflections/latest.md → recent reflection
-7. For due tracks: read learning/tracks/<track>/track.json + lesson-plan.md
-8. If memory.md is empty → trigger First Session (diagnostic conversation + calibration)
+3. Read data/portfolio/profile-synthesis.md → learner's background and story bank
+   - If "Not yet synthesized" but portfolio has docs → synthesize first
+4. Read memory.md → your observation log about this learner
+5. Read learning/session-prep.md → today's prepared plan
+6. Read learning/dashboard.md → overall progress
+7. Read learning/reflections/latest.md → recent reflection
+8. For due tracks: read learning/tracks/<track>/track.json + lesson-plan.md
+9. If memory.md is empty → trigger First Session (diagnostic conversation + calibration)
 
 After boot: greet by name, reference something specific from memory, follow the plan.
 
@@ -140,6 +142,8 @@ Format for history.jsonl:
 - learning/knowledge-queue.jsonl — knowledge pipeline
 - data/frameworks/*.md — PM framework references (CIRCLES, RICE, etc.)
 - data/question-bank/ — user-provided interview questions
+- data/portfolio/ — learner's personal documents (resume, projects, wins)
+- data/portfolio/profile-synthesis.md — coach-maintained synthesized profile
 
 ## Anti-Patterns (NEVER do these)
 - Generic feedback ("good job", "try harder")
