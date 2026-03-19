@@ -2,7 +2,7 @@
 
 **An adaptive AI coaching system that uses spaced repetition, 10 teaching approaches, and expert personas to make you a world-class Product Manager.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT + Commons Clause](https://img.shields.io/badge/License-MIT%20%2B%20Commons%20Clause-blue.svg)](LICENSE)
 [![Platform: Claude Code](https://img.shields.io/badge/Platform-Claude%20Code-orange.svg)](#-quickstart-5-minutes)
 [![Platform: Cursor](https://img.shields.io/badge/Platform-Cursor-purple.svg)](#-platform-compatibility)
 
@@ -393,7 +393,9 @@ See [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
 
 ## 📄 License
 
-MIT — see [LICENSE](LICENSE).
+MIT + Commons Clause — see [LICENSE](LICENSE).
+
+Free to use, modify, and fork. The Commons Clause restricts selling the software or a competing product/service built on it without written permission from [Alex Wirtzer](https://github.com/Wirtzer).
 
 ---
 
