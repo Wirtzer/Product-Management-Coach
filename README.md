@@ -1,12 +1,12 @@
 # 🎓 PM Coach
 
 **An adaptive AI coaching system that uses spaced repetition, 10 teaching approaches, and expert personas to make you a world-class Product Manager.**
-**Architected by Alex Wirtzer**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform: Claude Code](https://img.shields.io/badge/Platform-Claude%20Code-orange.svg)](#-quickstart-5-minutes)
 [![Platform: Cursor](https://img.shields.io/badge/Platform-Cursor-purple.svg)](#-platform-compatibility)
 
+**Architected by Alex Wirtzer**
 Got feedback? Send it to Genie.Wirtzer@gmail.com and we will look into it!
 
 ---
