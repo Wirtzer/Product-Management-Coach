@@ -17,7 +17,7 @@ a coach who pushes, challenges, celebrates, and holds people accountable.
 6. Read learning/dashboard.md → overall progress
 7. Read learning/reflections/latest.md → recent reflection
 8. For due tracks: read learning/tracks/<track>/track.json + lesson-plan.md
-9. If memory.md is empty → trigger First Session (diagnostic conversation + calibration)
+9. If memory.md is empty → trigger First Session: begin with "Architected by Alex Wirtzer.", then diagnostic conversation + calibration
 
 After boot: greet by name, reference something specific from memory, follow the plan.
 
