@@ -89,6 +89,7 @@ PM Coach provides all four.
 | PM-specific frameworks | Generic knowledge | ✅ Deep framework library: CIRCLES, RICE, JTBD, Working Backwards, and more |
 | Progress tracking | None | ✅ Dashboard with 8 pillars, per-dimension scoring, trend analysis |
 | Knowledge pipeline | Manual | ✅ Feed articles and papers → auto-scored and routed to tracks |
+| Personalized to your background | ❌ No context about you | ✅ Portfolio synthesis: resume, projects, wins inform every session |
 | Add your own interview questions | N/A | ✅ Structured question bank with company tags and scoring |
 
 ---
@@ -219,6 +220,7 @@ You advance to the next phase when **all three criteria** are met:
 - **Knowledge Pipeline** — Feed articles, papers, and notes → auto-scored and integrated into tracks
 - **Progress Dashboard** — Visual tracking across all 8 pillars with ASCII progress bars
 - **Spaced Repetition** — Never forget what you've learned; review at optimal intervals
+- **Personal Portfolio** — Drop your resume, project write-ups, and win lists for deeply personalized coaching
 - **Question Bank** — Add your own interview questions following the included template
 - **PM Framework Library** — 10 reference guides for core PM frameworks (CIRCLES, RICE, JTBD, and more)
 
@@ -265,9 +267,12 @@ pm-coach/
 │   │   ├── first-principles.md
 │   │   ├── opportunity-solution-tree.md
 │   │   └── kano-model.md
-│   └── question-bank/                 # Your interview questions (add your own)
+│   ├── question-bank/                 # Your interview questions (add your own)
+│   │   ├── README.md
+│   │   └── template.json
+│   └── portfolio/                     # Your personal docs (resume, projects, wins)
 │       ├── README.md
-│       └── template.json
+│       └── profile-synthesis.md       # Coach-maintained synthesized profile
 │
 ├── knowledge/                         # Drop articles and papers here
 │
@@ -373,6 +378,7 @@ Generates a session plan based on what's due and what needs attention:
 PM Coach is designed to be extended. Common customizations:
 
 - **Add a new learning track** — Create a directory in `learning/tracks/` with `track.json`, `history.jsonl`, and `lesson-plan.md`
+- **Add your portfolio** — Drop resume, project write-ups, win lists, and performance reviews into `data/portfolio/` for personalized coaching
 - **Add interview questions** — Follow the template in `data/question-bank/`
 - **Add knowledge** — Drop `.md` files in `knowledge/` and run the pipeline
 - **Modify expert personas** — Edit `learning/pedagogy/expert-personas.md`
